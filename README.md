@@ -9,7 +9,7 @@ In the spirit of promoting reproducibility, transparency, and to champion the ca
 ## Repository Structure:
 
 - [1-offloading-optimisation.ipynb:](1-offloading-optimisation.ipynb) This Jupyter notebook contains scripts related to delay analysis and optimization techniques we employed in our manuscript.
-- [2-impact-analysis.ipynb:](2-impact-analysis.ipynb) Dive into this Jupyter notebook for scripts pertinent to our parametric sensitivity impact analysis.
+- [2-parametric-sensitivity-impact-analysis.ipynb:](2-parametric-sensitivity-impact-analysis.ipynb) Dive into this Jupyter notebook for scripts pertinent to our parametric sensitivity impact analysis.
 
 The Jupyter notebooks are designed to be self-explanatory, guiding the reader through each step of the process. However, if any issues are encountered or something is unclear, it is encouraged to raise an issue on GitHub. Contributions to the improvement of this repository are greatly appreciated.
 
